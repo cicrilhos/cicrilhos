@@ -1,1 +1,1 @@
-![snake gif](https://github.com/cicrilhos/cicrilhos/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/cicrilhos/cicrilhos/output/snake.svg" alt="Snake animation" />
